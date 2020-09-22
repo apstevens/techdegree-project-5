@@ -1,0 +1,17 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+.grid {
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    grid-gap: 15px;
+    grid-auto-rows: 100px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+}
