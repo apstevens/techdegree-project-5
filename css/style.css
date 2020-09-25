@@ -15,3 +15,7 @@ img {
     height: 100px;
     border-radius: 25px;
 }
+
+.gallery-photo {
+    width: 580px;
+}
